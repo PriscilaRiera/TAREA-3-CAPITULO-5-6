@@ -6,7 +6,10 @@
 - Describir qué es un circuito en serie, como interviene la ley de Ohm y la ley de voltajes de Kirchhoff en él.
 - Describir qué es un circuito en paralelo, como interviene la ley de Ohm y la ley de corrientes de Kirchhoff en él.
 ## 2.Marco Teórico
-
+### Capítulo VI
+Este capítulo trata sobre los circuitos en serie, como es el viaje de la corriente y el voltaje en dicho circuito, de igual manera se tratará la ley de Ohm y la ley de voltajes de Kirchhoff y como estas influyen en el circuito, además se tratará las aplicaciones de los circuitos en serie.
+### Capítulo V
+Este capítulo trata sobre los circuitos en paralelo, como es el viaje de la corriente y el voltaje en dicho circuito, de igual manera se tratará la ley de Ohm y la ley de corrientes de Kirchhoff y como estas influyen en el circuito, además se tratará la aplicación de los circuitos en paralelo.
 ## 3.Explicación y resolucion de ejercicios.
 ## 4.Video
 ## 5.Conclusiones
