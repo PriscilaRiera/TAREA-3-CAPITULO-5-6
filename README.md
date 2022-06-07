@@ -249,10 +249,21 @@ Este capítulo trata sobre los circuitos en paralelo, como es el viaje de la cor
 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
 (a) El número de resistores (b) El valor de cada resistor
 (c) La corriente en cada rama (d) El voltaje aplicado
+
+![image](https://user-images.githubusercontent.com/105740772/172458933-6a1154b4-7769-4be2-b6a3-a2603879dcce.png)
+
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/105740772/172460625-9f79d90e-3ed4-421a-bd96-fb026846b94b.png)
+
 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/105740772/172461371-ff2b9f90-c6d7-49d9-8b6d-f47aa273d161.png)
+
 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/105740772/172462172-13517845-2b53-49e0-976e-d540b5ee3725.png)
 
 ## 4.Video
 
