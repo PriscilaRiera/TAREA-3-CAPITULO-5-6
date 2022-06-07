@@ -168,8 +168,9 @@ Este capítulo trata sobre los circuitos en paralelo, como es el viaje de la cor
 #### Caítulo VI
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
-![image](https://user-images.githubusercontent.com/105740772/172431492-e0737917-1230-44ce-90ee-965b026e414b.png)
+![image](https://user-images.githubusercontent.com/105740772/172468871-1d2df224-f303-4708-bec3-502b251a608a.png)
 
+- Si estan conectados en paralelos pues existe más de una trayectoria para la corriente 
 4.v¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
 ![image](https://user-images.githubusercontent.com/105740772/172432715-92da63f5-7eea-4944-9613-eff51b400cb0.png)
