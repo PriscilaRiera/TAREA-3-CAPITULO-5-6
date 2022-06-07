@@ -268,6 +268,8 @@ Este capítulo trata sobre los circuitos en paralelo, como es el viaje de la cor
 
 ## 4.Video
 
+https://www.youtube.com/watch?v=QsikbKOBlBo
+
 ## 5.Conclusiones
 - Un circuito en serie es aquel que tiene sus componentes distribuidos de esa forma y en el que la corriente es constrante con una sola trayectoria pero su voltaje se divide entre la cantidad de resistores que haya, en este tipo de circuitos se usan las leyes estudiadas anteriormente y se comprende mejor la ley de voltaje de Kirchhoff para aplicarla a este tipo de circuitos.
 - Un circuito en paralelo es aquel que tiene sus componentes distribuidos de esa forma y en el que la corriente no es constante y se divide ya que tiene varias trayectorias por recorrer pero su voltaje se mantiene constante sin importar cuantos resistores haya, en este tipo de circuitos de igualmanera se utilizan las leyes anteriormente estudiadas y se comprende de mejor manera la ley de corrientes de Kirchhhoff y su aplicación en los circuitos en paralelo.
